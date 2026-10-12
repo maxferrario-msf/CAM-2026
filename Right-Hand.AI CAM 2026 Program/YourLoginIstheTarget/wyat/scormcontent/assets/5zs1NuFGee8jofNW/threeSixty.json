@@ -1,0 +1,27 @@
+{
+  "version": "3.118.37034.0",
+  "course_id": "5qGocYb53kK",
+  "title": "Sample",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Completion_Status"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5yqG4YLsq8M",
+      "title": "Completion Trigger",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 320
+  },
+  "stage": {
+    "width": 960,
+    "height": 300
+  }
+}

@@ -1,0 +1,425 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.430
+Modern phishing beyond suspicious emails.
+
+2
+00:00:02.930 --> 00:00:04.630
+Sarah checks her inbox every morning.
+
+3
+00:00:05.170 --> 00:00:05.650
+She's careful.
+
+4
+00:00:06.430 --> 00:00:08.490
+She hasn't clicked on a phishing email in years.
+
+5
+00:00:09.030 --> 00:00:11.650
+But today, phishing isn't coming only through her inbox.
+
+6
+00:00:12.370 --> 00:00:13.770
+Phishing used to be easy to spot.
+
+7
+00:00:14.050 --> 00:00:17.030
+Bad grammar, broken logos, a stranger's email address.
+
+8
+00:00:17.530 --> 00:00:18.030
+Not anymore.
+
+9
+00:00:18.510 --> 00:00:21.090
+Attackers now use AI to write flawless messages,
+
+10
+00:00:21.510 --> 00:00:23.410
+clone real websites, pixel for pixel,
+
+11
+00:00:23.690 --> 00:00:25.170
+and build fake pages in minutes.
+
+12
+00:00:25.770 --> 00:00:27.510
+The old warning signs are disappearing.
+
+13
+00:00:27.510 --> 00:00:30.710
+Two of today's most common attacks reached Sarah
+
+14
+00:00:30.710 --> 00:00:32.270
+in ways she never expected.
+
+15
+00:00:32.730 --> 00:00:33.970
+Here's how they reached Sarah.
+
+16
+00:00:34.490 --> 00:00:36.870
+Part one, phishing, phishing through QR codes.
+
+17
+00:00:37.430 --> 00:00:41.170
+8:45 a.m., Sarah stops by her local cafe before work.
+
+18
+00:00:41.410 --> 00:00:42.750
+There's a poster near the counter,
+
+19
+00:00:43.190 --> 00:00:44.950
+scan to connect to the cafe's Wi-Fi.
+
+20
+00:00:45.350 --> 00:00:46.010
+She scans it.
+
+21
+00:00:46.290 --> 00:00:48.470
+The page that opens asks her to sign in
+
+22
+00:00:48.470 --> 00:00:51.710
+with her work login to verify her device before connecting.
+
+23
+00:00:52.430 --> 00:00:54.210
+Her thumb hovers over the sign-in button.
+
+24
+00:00:54.610 --> 00:00:55.070
+She stops.
+
+25
+00:00:55.070 --> 00:00:57.770
+The cafe didn't put up this QR code.
+
+26
+00:00:58.110 --> 00:01:00.210
+Someone stuck a fake sticker over the real one.
+
+27
+00:01:00.610 --> 00:01:03.690
+This is called quishing, phishing through QR codes.
+
+28
+00:01:04.269 --> 00:01:05.790
+And this is where AI comes in,
+
+29
+00:01:06.010 --> 00:01:09.290
+building a fake login page used to take real skill and time.
+
+30
+00:01:09.910 --> 00:01:13.710
+Now, AI tools can clone an official sign-in page in seconds,
+
+31
+00:01:13.950 --> 00:01:15.710
+matching the real logo, layout,
+
+32
+00:01:16.050 --> 00:01:17.630
+and wording almost perfectly.
+
+33
+00:01:18.230 --> 00:01:20.630
+That's why Sarah can't tell the difference just by looking.
+
+34
+00:01:21.410 --> 00:01:24.050
+If she types her password, the attacker has it.
+
+35
+00:01:24.050 --> 00:01:28.090
+Sarah can't see where the QR code goes before she scans it.
+
+36
+00:01:28.670 --> 00:01:29.510
+That's the whole trick.
+
+37
+00:01:30.170 --> 00:01:32.690
+AI makes the destination look completely real.
+
+38
+00:01:33.170 --> 00:01:34.750
+How to stay safe from quishing attacks.
+
+39
+00:01:35.330 --> 00:01:36.250
+Three simple habits.
+
+40
+00:01:36.850 --> 00:01:39.250
+One, when your phone previews a QR code link,
+
+41
+00:01:39.490 --> 00:01:40.610
+read it before you tap.
+
+42
+00:01:41.070 --> 00:01:43.070
+If it doesn't look like a website you recognize,
+
+43
+00:01:43.490 --> 00:01:44.410
+don't open it.
+
+44
+00:01:44.530 --> 00:01:48.110
+Two, if a page asks you to log in after scanning a code,
+
+45
+00:01:48.290 --> 00:01:49.210
+be extra careful.
+
+46
+00:01:49.850 --> 00:01:52.550
+Free Wi-Fi and menus rarely need your work password.
+
+47
+00:01:52.550 --> 00:01:55.730
+Remember, a page can look perfect and still be fake.
+
+48
+00:01:56.270 --> 00:01:59.170
+If you spot a suspicious QR sticker in a public space,
+
+49
+00:01:59.450 --> 00:02:00.190
+don't scan it.
+
+50
+00:02:00.350 --> 00:02:02.030
+Report it to the venue or your workplace.
+
+51
+00:02:02.650 --> 00:02:04.150
+Part two, ClickFix.
+
+52
+00:02:04.730 --> 00:02:06.690
+Phishing through fake verification steps.
+
+53
+00:02:07.169 --> 00:02:09.490
+A week later, Sarah gets an email
+
+54
+00:02:09.490 --> 00:02:12.230
+that looks like it's from a supplier she works with often.
+
+55
+00:02:12.770 --> 00:02:15.550
+A routine notice about an invoice she needs to review.
+
+56
+00:02:16.150 --> 00:02:18.690
+It's polite, professional, and expected.
+
+57
+00:02:19.250 --> 00:02:20.130
+She clicks the link.
+
+58
+00:02:20.130 --> 00:02:23.350
+A page loads that looks like an official security check.
+
+59
+00:02:23.990 --> 00:02:26.990
+The page asks her to verify details to view the document.
+
+60
+00:02:27.530 --> 00:02:29.910
+The box says, verify you're human.
+
+61
+00:02:30.450 --> 00:02:31.990
+Follow these three keyboard steps.
+
+62
+00:02:32.610 --> 00:02:34.150
+It looks official, technical,
+
+63
+00:02:34.730 --> 00:02:36.730
+like something a real website would ask.
+
+64
+00:02:37.330 --> 00:02:38.710
+Sarah's fingers move toward the keyboard.
+
+65
+00:02:39.290 --> 00:02:39.570
+Freezes.
+
+66
+00:02:40.210 --> 00:02:40.930
+Cursor pulled back.
+
+67
+00:02:41.410 --> 00:02:42.510
+This is called ClickFix.
+
+68
+00:02:43.090 --> 00:02:44.170
+And it's important to know.
+
+69
+00:02:44.690 --> 00:02:47.650
+It reaches you through channels that already feel safe.
+
+70
+00:02:47.650 --> 00:02:48.870
+A routine email.
+
+71
+00:02:49.230 --> 00:02:50.150
+A familiar website.
+
+72
+00:02:50.390 --> 00:02:51.490
+A link a colleague shared.
+
+73
+00:02:52.050 --> 00:02:54.310
+That's what gets people to click without thinking twice.
+
+74
+00:02:54.910 --> 00:02:56.150
+Here's what's actually happening.
+
+75
+00:02:56.790 --> 00:02:57.830
+When Sarah clicked the link,
+
+76
+00:02:58.030 --> 00:03:00.950
+the page secretly copied a hidden command onto her clipboard.
+
+77
+00:03:01.330 --> 00:03:04.510
+The same clipboard that stores anything she copies and pastes.
+
+78
+00:03:04.810 --> 00:03:07.270
+The first keyboard shortcut, Windows + R,
+
+79
+00:03:07.450 --> 00:03:09.190
+opens a small window on her computer
+
+80
+00:03:09.190 --> 00:03:10.690
+that can run commands directly.
+
+81
+00:03:10.950 --> 00:03:12.630
+The second, Ctrl + V,
+
+82
+00:03:12.810 --> 00:03:14.650
+pastes the hidden command into that window.
+
+83
+00:03:14.970 --> 00:03:16.330
+And pressing enter runs it.
+
+84
+00:03:16.330 --> 00:03:19.230
+In seconds, harmful software installs itself
+
+85
+00:03:19.230 --> 00:03:20.210
+on Sarah's computer.
+
+86
+00:03:20.750 --> 00:03:23.230
+No file downloaded, no attachment opened.
+
+87
+00:03:23.630 --> 00:03:25.410
+She executed the whole attack herself
+
+88
+00:03:25.410 --> 00:03:26.810
+by following the instructions.
+
+89
+00:03:27.270 --> 00:03:29.150
+How to stay safe from ClickFix tactics.
+
+90
+00:03:29.530 --> 00:03:30.410
+Two things to remember.
+
+91
+00:03:31.050 --> 00:03:33.950
+One, treat unexpected links in emails with caution,
+
+92
+00:03:34.270 --> 00:03:35.410
+even if they look routine.
+
+93
+00:03:35.850 --> 00:03:37.650
+That's usually where ClickFix begins.
+
+94
+00:03:38.450 --> 00:03:40.770
+Two, no legitimate website ever asks you
+
+95
+00:03:40.770 --> 00:03:43.450
+to press keyboard shortcuts to verify you're human.
+
+96
+00:03:43.810 --> 00:03:45.130
+If prompted to press keys,
+
+97
+00:03:45.130 --> 00:03:46.210
+close it immediately,
+
+98
+00:03:46.830 --> 00:03:49.630
+then run a security scan or contact your IT team.
+
+99
+00:03:50.130 --> 00:03:51.530
+Phishing isn't just email anymore.
+
+100
+00:03:51.930 --> 00:03:52.990
+It's a sticker on a wall,
+
+101
+00:03:53.350 --> 00:03:54.570
+a link in a routine message,
+
+102
+00:03:54.890 --> 00:03:57.430
+a verification step that looks a little too official.
+
+103
+00:03:58.010 --> 00:04:00.670
+Before you scan, click paste or approve, pause.
+
+104
+00:04:01.390 --> 00:04:03.030
+Verify and report, slow down.
+
+105
+00:04:03.390 --> 00:04:05.350
+That one habit stops most of these attacks
+
+106
+00:04:05.350 --> 00:04:06.170
+before they start.

@@ -1,0 +1,197 @@
+WEBVTT
+
+0
+00:00:00.009 --> 00:00:03.170
+Multi-factor authentication or MFA
+
+1
+00:00:03.329 --> 00:00:05.469
+is one of the strongest protections for your account,
+
+2
+00:00:05.809 --> 00:00:07.250
+but attackers know this too,
+
+3
+00:00:07.519 --> 00:00:09.409
+which is why they now try to trick people
+
+4
+00:00:09.409 --> 00:00:12.949
+into approving MFA requests they did not start.
+
+5
+00:00:13.329 --> 00:00:16.309
+This is called MFA manipulation.
+
+6
+00:00:16.569 --> 00:00:19.489
+One common method is MFA fatigue,
+
+7
+00:00:19.809 --> 00:00:22.090
+also known as MFA bombing.
+
+8
+00:00:22.450 --> 00:00:24.530
+This happens when an attacker repeatedly sends
+
+9
+00:00:24.530 --> 00:00:26.219
+login approval prompts to your phone,
+
+10
+00:00:26.319 --> 00:00:29.829
+hoping you will tap approve just to make the notification stop.
+
+11
+00:00:30.129 --> 00:00:31.479
+Remember this simple rule,
+
+12
+00:00:31.770 --> 00:00:33.279
+if you did not try to sign in,
+
+13
+00:00:33.450 --> 00:00:35.029
+do not approve the request.
+
+14
+00:00:35.369 --> 00:00:38.229
+Attackers use fake login pages that look official.
+
+15
+00:00:38.369 --> 00:00:39.450
+If you enter your credentials,
+
+16
+00:00:39.529 --> 00:00:42.590
+they can bypass security and access your account directly.
+
+17
+00:00:42.889 --> 00:00:43.840
+To protect yourself,
+
+18
+00:00:43.970 --> 00:00:46.450
+always check the website address before signing in.
+
+19
+00:00:47.049 --> 00:00:48.909
+Be cautious of links sent through email,
+
+20
+00:00:49.290 --> 00:00:49.889
+Teams,
+
+21
+00:00:50.130 --> 00:00:50.610
+Slack,
+
+22
+00:00:50.880 --> 00:00:53.319
+text messages or unexpected pop-ups.
+
+23
+00:00:53.689 --> 00:00:54.479
+When in doubt,
+
+24
+00:00:54.750 --> 00:00:58.220
+go directly to the official website or app instead of using the link.
+
+25
+00:00:59.439 --> 00:01:02.700
+They may also try to add a new MFA device to your account.
+
+26
+00:01:03.240 --> 00:01:05.750
+Always report any unfamiliar security setting
+
+27
+00:01:05.750 --> 00:01:08.180
+changes or new device alerts immediately.
+
+28
+00:01:08.559 --> 00:01:12.830
+Be alert if you're asked to switch to a weaker sign-in method like text messages.
+
+29
+00:01:13.040 --> 00:01:16.059
+Attackers target these methods because they are easier to intercept.
+
+30
+00:01:17.199 --> 00:01:18.949
+If this happens unexpectedly,
+
+31
+00:01:19.269 --> 00:01:20.589
+stop and report it.
+
+32
+00:01:20.930 --> 00:01:24.949
+Attackers often prefer weaker methods because they are easier to manipulate.
+
+33
+00:01:25.370 --> 00:01:28.589
+Here are 4 simple habits that help keep your account safe.
+
+34
+00:01:28.970 --> 00:01:31.629
+Never approve an MFA request
+
+35
+00:01:31.730 --> 00:01:32.970
+you did not start.
+
+36
+00:01:34.699 --> 00:01:36.580
+Do not share one-time codes with anyone,
+
+37
+00:01:36.699 --> 00:01:39.160
+even if they claim to be from IT or support.
+
+38
+00:01:39.419 --> 00:01:42.489
+Use approved password managers and passkeys where available as
+
+39
+00:01:42.489 --> 00:01:44.650
+they help protect you from fake login pages.
+
+40
+00:01:44.940 --> 00:01:47.580
+Report repeated MFA prompts,
+
+41
+00:01:47.790 --> 00:01:49.330
+unexpected login alerts,
+
+42
+00:01:49.540 --> 00:01:52.019
+or unfamiliar security changes straight away.
+
+43
+00:01:53.400 --> 00:01:54.779
+MFA is powerful,
+
+44
+00:01:54.870 --> 00:01:56.370
+but it still needs your attention.
+
+45
+00:01:56.879 --> 00:01:58.410
+Pause before you approve,
+
+46
+00:01:58.839 --> 00:02:00.059
+check before you click,
+
+47
+00:02:00.319 --> 00:02:01.699
+and when something feels unusual,
+
+48
+00:02:02.199 --> 00:02:02.720
+report it.

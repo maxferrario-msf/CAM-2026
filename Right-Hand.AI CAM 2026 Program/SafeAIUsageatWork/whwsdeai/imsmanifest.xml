@@ -1,0 +1,240 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest
+  identifier="kPcTBkG_DVOdy-4OhxqLc6FF1Bu-7wq0Ye2nxuOH"
+  version="1.3"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+  xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+  xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                      http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                      http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                      http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd"
+>
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
+      <title>What Happens When Sensitive Data Enters AI Tools Video Module</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>What Happens When Sensitive Data Enters AI Tools Video Module</title>
+        <adlcp:dataFromLMS>dataFromLMS</adlcp:dataFromLMS>
+        
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true" />
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormType="sco" href="scormdriver/indexAPI.html">
+      
+        <file href="scormcontent/lib/learn_dist/entry.js" />
+      
+        <file href="scormcontent/lib/learn_dist/9b1f8619.js" />
+      
+        <file href="scormcontent/lib/learn_dist/a505eb4f.css" />
+      
+        <file href="scormcontent/lib/learn_dist/1300c33e.js" />
+      
+        <file href="scormcontent/lib/sandbox/sandbox.html" />
+      
+        <file href="scormcontent/lib/mondrian/entry.js" />
+      
+        <file href="scormcontent/lib/rise/91c01367.js" />
+      
+        <file href="scormcontent/lib/sandbox/c77685df.js" />
+      
+        <file href="scormcontent/lib/rise/b5c246db.css" />
+      
+        <file href="scormcontent/lib/mondrian/e3f3f2af.js" />
+      
+        <file href="scormcontent/lib/sandbox/4adfab46.css" />
+      
+        <file href="scormcontent/lib/ai-scenario/entry.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/57960b97.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/841684f2.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/6237cfa3.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/312c66b0.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/5e51779a.js" />
+      
+        <file href="scormcontent/lib/mondrian/fa636d73.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/64e2162e.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/d67fd170.js" />
+      
+        <file href="scormcontent/lib/mondrian/8f13dbf5.js" />
+      
+        <file href="scormcontent/lib/mondrian/3868877e.js" />
+      
+        <file href="scormcontent/lib/mondrian/5d56aa22.js" />
+      
+        <file href="scormcontent/lib/rise/e2c5804b.js" />
+      
+        <file href="scormcontent/lib/rise/e776c155.css" />
+      
+        <file href="scormcontent/lib/rise/6a70c36e.js" />
+      
+        <file href="scormcontent/lib/rise/9aede266.ttf" />
+      
+        <file href="scormcontent/lib/rise/bff47411.woff" />
+      
+        <file href="scormcontent/lib/rise/f54a4bbb.js" />
+      
+        <file href="scormcontent/lib/rise/02cf473f.js" />
+      
+        <file href="scormcontent/lib/rise/db622a80.js" />
+      
+        <file href="scormcontent/lib/rise/4de7a64b.js" />
+      
+        <file href="scormcontent/lib/rise/4fda90c0.js" />
+      
+        <file href="scormcontent/lib/rise/57b3c295.js" />
+      
+        <file href="scormcontent/lib/rise/1c3e1f47.js" />
+      
+        <file href="scormcontent/lib/rise/299f5ddb.js" />
+      
+        <file href="scormcontent/lib/rise/ebbde940.js" />
+      
+        <file href="scormcontent/lib/rise/3c1c89b9.js" />
+      
+        <file href="scormcontent/lib/rise/b2fa32e8.js" />
+      
+        <file href="scormcontent/lib/rise/674a2edc.js" />
+      
+        <file href="scormcontent/lib/rise/61bd4112.js" />
+      
+        <file href="scormcontent/lib/rise/4241978b.js" />
+      
+        <file href="scormcontent/lib/rise/5fe14f00.js" />
+      
+        <file href="scormcontent/lib/rise/39f25c26.js" />
+      
+        <file href="scormdriver/driverOptions.js" />
+      
+        <file href="scormdriver/indexAPI.html" />
+      
+        <file href="scormdriver/goodbye.html" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Regular.woff" />
+      
+        <file href="scormcontent/index.html" />
+      
+        <file href="scormdriver/scormdriver.js" />
+      
+        <file href="scormcontent/assets/sensitive-data-entering-AI-tools.jpg" />
+      
+        <file href="scormdriver/lib/dist/5306ddc2.js" />
+      
+        <file href="scormcontent/lib/dist/8f089cd2.js" />
+      
+        <file href="scormcontent/assets/What%20Happens%20When%20Sensitive%20Data%20Enters%20AI%20Tools_-caption-updated.vtt" />
+      
+        <file href="scormcontent/assets/What%20Happens%20When%20Sensitive%20Data%20Enters%20AI%20Tools__1080p.mp4" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Italic.woff" />
+      
+        <file href="scormcontent/lib/player-interface.js" />
+      
+        <file href="scormdriver/browsersniff.js" />
+      
+        <file href="scormdriver/lms-interface.js" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Light.woff" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Bold.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Black.woff" />
+      
+        <file href="scormdriver/blank.html" />
+      
+        <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      
+        <file href="scormdriver/AICCComm.html" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+      
+        <file href="scormdriver/auto-scripts/CourseExit.js" />
+      
+        <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/analytics-frame.html" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/data/css/output.min.css" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/data/js/5yqG4YLsq8M.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/data/js/data.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/data/js/frame.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/data/js/paths.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/scripts/bootstrapper.min.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/scripts/frame.desktop.min.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/scripts/frame.mobile.min.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/scripts/slides.min.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/stylesheets/desktop.min.css" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/html5/lib/stylesheets/mobile.min.css" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/lms/scormdriver.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/meta.xml" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/mobile/5sw7RNK3li2.jpg" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/story.html" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/story_content/thumbnail.jpg" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/story_content/triggers.js" />
+      
+        <file href="scormcontent/assets/What%20Happens%20When%20Sensitive%20Data%20Enters%20AI%20Tools__1080p.jpg" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/story_content/user.js" />
+      
+        <file href="scormcontent/assets/5zs1NuFGee8jofNW/threeSixty.json" />
+      
+        <file href="scormcontent/runtime-data.js" />
+      
+    </resource>
+  </resources>
+</manifest>
